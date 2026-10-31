@@ -1,4 +1,4 @@
-# Hi, I'm I Wayan Usada
+# Hi, I'm Usada
 
 Learning designer focused on evidence-based, accessible learning in the AI era.
 I work across corporate L&D, K-12 and higher-ed curriculum, EdTech, and education research.
