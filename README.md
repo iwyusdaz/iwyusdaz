@@ -17,6 +17,16 @@ Every project below follows the same arc: **diagnose → design → build → ev
 | [Research Tools Academy](https://github.com/iwyusdaz/research-tools-academy) | Graduate students need task-based Zotero training built from real support questions | Graduate students | [Academy](https://iwyusdaz.github.io/research-tools-academy/) |
 | [Tutor Training Course](https://github.com/iwyusdaz/tutor-training-course) | Tutoring quality at scale needs trained tutors, observable moves and fidelity data | K-12 tutoring programs | [Program](https://iwyusdaz.github.io/tutor-training-course/) |
 
+## Open-source tools for learning designers
+
+*The same problems kept surfacing across the projects above — so I built the tools for them.* Each tool is tested with negative tests that prove its failure paths actually fail, and each carries an independent agent review (labeled as such) with findings fixed in public.
+
+| Tool | What it does | Born from |
+|---|---|---|
+| [tracebook](https://github.com/iwyusdaz/tracebook) | Extracts every factual claim from curriculum content, verifies each against its source with quote-back matching, rewrites corrections in place with dated notes — and re-checks sources weekly for link rot via a GitHub Action | The manual claim-by-claim source verification behind the projects above |
+| [slidewalk](https://github.com/iwyusdaz/slidewalk) | Lesson outline in, accessible deck out: one source of truth builds a single-file HTML deck **and** a native PPTX, with axe/keyboard/reflow gates that fail the build instead of warning | Enforcing the same WCAG 2.1 AA baseline by hand in every project |
+| [chalkreel](https://github.com/iwyusdaz/chalkreel) | Learning objective in, accessible explainer video out (agent skill): captions, transcript and audio-description notes ship with the video, and every cut is QC'd against Mayer's multimedia principles | The accessibility bundle every learning video should ship with — not as an afterthought |
+
 ## How I work
 
 Diagnose → Design → Build → Evaluate. Every project includes design rationale and an evidence section.
