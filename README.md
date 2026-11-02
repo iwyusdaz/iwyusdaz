@@ -36,7 +36,3 @@ I treat evaluation honestly: automated accessibility testing and structured agen
 ## Licenses and AI disclosure
 
 Content is CC BY 4.0 and code is MIT in each repo (repo 4 matches its source module's license). These projects were built with AI assistance as portfolio artifacts; each README discloses where AI was used and how the work was reviewed (including separate-context agent reviews, labeled "Agent review"). Fictional organizations, personas and simulated datasets are labeled as such.
-
-## Contact
-
-[LinkedIn] · [Email] · [Portfolio site]
