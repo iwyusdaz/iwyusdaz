@@ -27,6 +27,22 @@ Every project below follows the same arc: **diagnose → design → build → ev
 | [slidewalk](https://github.com/iwyusdaz/slidewalk) | Lesson outline in, accessible deck out: one source of truth builds a single-file HTML deck **and** a native PPTX, with axe/keyboard/reflow gates that fail the build instead of warning | Enforcing the same WCAG 2.1 AA baseline by hand in every project |
 | [chalkreel](https://github.com/iwyusdaz/chalkreel) | Learning objective in, accessible explainer video out (agent skill): captions, transcript and audio-description notes ship with the video, and every cut is QC'd against Mayer's multimedia principles | The accessibility bundle every learning video should ship with — not as an afterthought |
 
+## Immersive 3D learning (three.js)
+
+Five browser-based 3D learning games and mini courses. Realistic detail appears only where noticing it *is* the learning. Real data comes from NASA, USGS and the Smithsonian. No sign-up, no tracking, and every project has a text mode and full keyboard play.
+
+**[Play them all in the Immersive Learning Lab →](https://immersive-learning-showcase.vercel.app/)**
+
+| Project | What the learner does | Play |
+|---|---|---|
+| [Lunar Field Expedition](https://github.com/iwyusdaz/lunar-field-expedition) | Lands at the real Apollo 15 site, reads the terrain under changing sunlight, plans a traverse and defends the findings | [Play](https://immersive-learning-showcase.vercel.app/play/lunar-field-expedition/) |
+| [The Object Detective](https://github.com/iwyusdaz/object-detective) | Examines real Smithsonian 3D scans under raking light, checks them against archives and writes an honest museum label | [Play](https://immersive-learning-showcase.vercel.app/play/object-detective/) |
+| [Hazard Hunt](https://github.com/iwyusdaz/hazard-hunt) | Spots warehouse hazards in realistic 3D, replays a near-miss and practises speaking up (workplace safety) | [Play](https://immersive-learning-showcase.vercel.app/play/hazard-hunt/) |
+| [Field Ecologist](https://github.com/iwyusdaz/field-ecologist) | Designs a sampling plan for a meadow, then sees the true population and how the design biased the estimate | [Play](https://immersive-learning-showcase.vercel.app/play/field-ecologist/) |
+| [Glacier Time Machine](https://github.com/iwyusdaz/glacier-time-machine) | Aligns historic photos to real 3D terrain of Muir Inlet, measures glacier retreat and reasons about causes and uncertainty | [Play](https://immersive-learning-showcase.vercel.app/play/glacier-time-machine/) |
+
+Best on a desktop or laptop browser; phones get lighter graphics. Evaluation so far is automated testing plus agent-based review. No real learners have tested these yet, and each repo's `STATUS.md` lists its known open issues.
+
 ## How I work
 
 Diagnose → Design → Build → Evaluate. Every project includes design rationale and an evidence section.
