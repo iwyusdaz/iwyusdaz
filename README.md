@@ -57,10 +57,6 @@ Each tool has negative tests that prove its checks catch seeded errors, and each
 | [slidewalk](https://github.com/iwyusdaz/slidewalk) | Turns one lesson outline into a single-file HTML deck **and** a native PPTX. Accessibility checks (axe, keyboard, 320 px reflow, contrast, alt text) fail the build instead of warning | Deck generators treat accessibility as a claim rather than a gate |
 | [chalkreel](https://github.com/iwyusdaz/chalkreel) | An agent skill that turns a measurable learning objective into a short, code-drawn explainer video with captions, a transcript and audio-description notes, checked against written criteria based on Mayer's multimedia principles | AI video generators start from a topic and optimize for engagement, not for a learning objective |
 
-## How I report evidence
-
-I keep evaluation claims honest. For the learning design projects, automated accessibility testing and structured agent-based design reviews are complete. AI-simulated learner runs, review panels and blind scoring pipelines are **built and dry-run tested but waiting on API keys**, so no results are filled in. Nothing is presented as tested with real learners unless it was. Each GitHub repo's `evaluation/METHODS.md` states what was done, by what method, and what it can and cannot show.
-
 ## Licenses and AI disclosure
 
 In the GitHub repos, code is MIT and learning content is CC BY 4.0. The one exception is the Accessibility Remediation Case Study, which keeps its source module's license (CC BY-NC-SA 3.0 US). All projects were built with AI assistance as portfolio pieces. Agent reviews are labeled "Agent review", and fictional organizations, personas and simulated datasets are labeled as fictional.
