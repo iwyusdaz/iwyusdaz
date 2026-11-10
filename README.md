@@ -47,8 +47,6 @@ Best on a desktop or laptop browser; phones get lighter graphics. Evaluation so 
 
 Selected case studies from my instructional design portfolio. Each one includes a 3D practice scene, plus the design and evaluation reasoning behind it. All organizations and scenarios are fictional.
 
-**[See all 27 case studies →](https://portfolio-instructional-designer.vercel.app/work)**
-
 | Case study | What the learner does |
 |---|---|
 | [Wind-Turbine Alarm Calls: Restart or Hold?](https://portfolio-instructional-designer.vercel.app/work/turbine-7/) | Offshore wind control-room technicians decide whether to restart or hold across eight alarm cases, under production-desk pressure, then write a handover note |
