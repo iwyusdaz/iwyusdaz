@@ -43,6 +43,23 @@ Five browser-based 3D learning games and mini courses. Realistic detail appears 
 
 Best on a desktop or laptop browser; phones get lighter graphics. Evaluation so far is automated testing plus agent-based review. No real learners have tested these yet, and each repo's `STATUS.md` lists its known open issues.
 
+## Instructional design case studies
+
+Selected case studies from my instructional design portfolio. Each one includes a 3D practice scene, plus the design and evaluation reasoning behind it. All organizations and scenarios are fictional.
+
+**[See all 27 case studies →](https://portfolio-instructional-designer.vercel.app/work)**
+
+| Case study | What the learner does |
+|---|---|
+| [Wind-Turbine Alarm Calls: Restart or Hold?](https://portfolio-instructional-designer.vercel.app/work/turbine-7/) | Offshore wind control-room technicians decide whether to restart or hold across eight alarm cases, under production-desk pressure, then write a handover note |
+| [Cold-Chain Goods-In: Decision Training for Dock Receivers](https://portfolio-instructional-designer.vercel.app/work/cold-chain/) | Chilled-goods dock receivers work through a 21-decision certification module and a timed dock run, checking hidden core temperatures before signing the CMR |
+| [Phishing Recognition Drill: Report, Verify or Trust](https://portfolio-instructional-designer.vercel.app/work/dont-click/) | Office staff read sender addresses right to left, name the registered domain, and decide whether to report, verify or trust each message |
+| [Pharmacy Double-Check Training: Errors vs Over-Flags](https://portfolio-instructional-designer.vercel.app/work/medcheck/) | Hospital pharmacy technicians flag or clear five prescriptions, name the faulty line and write the annotation |
+| [Craft-Dairy Process Training: Expert Interview to Floor-Ready Kit](https://portfolio-instructional-designer.vercel.app/work/craft-dairy/) | A founder interview becomes a tank-line routine; new operators choose the record over the surface cue at four gates and write the deviation note |
+| [Vetting Adjudication: Weight the Pattern, Not the Story](https://portfolio-instructional-designer.vercel.app/work/faithful-copy/) | Vetting staff tag twelve documents in a dossier, weigh a quiet pattern against one vivid disclosure, and write the conditions or the reason |
+| [Async Process Handover: Built for the 22:00 Reader](https://portfolio-instructional-designer.vercel.app/work/the-handover/) | Learners build a handover document on a 15-point budget, then test it in a Friday-night replay across IST/CET time zones |
+| [AI-Assisted Customer Email: Verify Before You Send](https://portfolio-instructional-designer.vercel.app/work/ai-literacy/) | Support agents find the three real risks in a confident AI draft, climb a four-rung Verify ladder and make the send decision |
+
 ## How I work
 
 Diagnose → Design → Build → Evaluate. Every project includes design rationale and an evidence section.
